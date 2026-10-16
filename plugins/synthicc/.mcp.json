@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "synthicc": {
+      "type": "http",
+      "url": "https://preview.synthicc.net/mcp"
+    }
+  }
+}

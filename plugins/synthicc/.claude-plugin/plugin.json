@@ -1,0 +1,9 @@
+{
+  "name": "synthicc",
+  "description": "Generate images and video with Synthicc from Claude Code: the Synthicc skill and MCP server.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Synthicc"
+  },
+  "homepage": "https://preview.synthicc.net/docs/agents"
+}

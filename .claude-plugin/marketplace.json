@@ -1,0 +1,14 @@
+{
+  "name": "synthicc-agent",
+  "description": "Synthicc for Claude Code",
+  "owner": {
+    "name": "Synthicc"
+  },
+  "plugins": [
+    {
+      "name": "synthicc",
+      "source": "./plugins/synthicc",
+      "description": "Generate images and video with Synthicc from Claude Code: the Synthicc skill and MCP server."
+    }
+  ]
+}
